@@ -9,9 +9,9 @@ This project is a generative AI web application that creates high-quality images
 
 **Internship Context:** This project was developed as **Task-02** during my Machine Learning Internship at **Prodigy Infotech**, demonstrating the practical implementation of pre-trained generative models and web UI integration.
 
-*Here’s the main interface of the Text Generation with GPT-2:*
+*Here’s the main interface of the Text-to-Image Generator*
 
-![img]()
+![img](https://github.com/Dharmendra0305/PRODIGY_GA_02/blob/c1d898d41045366082f6658f546a075beac8a2e3/1.png)
 
 ## ✨ Features
 * **Intuitive Web Interface:** Built with Gradio for seamless, browser-based interaction.
@@ -58,6 +58,10 @@ This project is a generative AI web application that creates high-quality images
 2. Access the Web UI:
    - The terminal will output a local URL (e.g., http://127.0.0.1:7860).
    - If share=True is enabled in the code, a public gradio.live link will also be generated.
+  
+*Example of Image Generation:*
+
+![img](https://github.com/Dharmendra0305/PRODIGY_GA_02/blob/c1d898d41045366082f6658f546a075beac8a2e3/2.png)
 
 ## 🤝 Contribution Guidelines
 Contributions are welcome! If you'd like to improve the code or add features:
